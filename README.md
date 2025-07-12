@@ -136,12 +136,9 @@ The website is optimized for performance with:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Jyothika - jyothikabadugu3@gmail.com
 
-Project Link: [https://github.com/yourusername/Portfolio-Website](https://github.com/yourusername/Portfolio-Website) 
+Project Link: https://jyothika-badugu.github.io/My_portfolio/
