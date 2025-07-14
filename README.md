@@ -4,7 +4,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Thi
 
 ## Features
 
-- 🌓 Dark/Light theme toggle with persistent storage
 - 📱 Fully responsive design for all devices
 - 🎨 Modern and clean UI with smooth animations
 - 📜 Smooth scrolling navigation
